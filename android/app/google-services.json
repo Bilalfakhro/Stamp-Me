@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920163088184",
+    "firebase_url": "https://stamp-me-app.firebaseio.com",
+    "project_id": "stamp-me-app",
+    "storage_bucket": "stamp-me-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920163088184:android:ccc6b74cc9759d52df73cd",
+        "android_client_info": {
+          "package_name": "com.bilalfakhro.stampme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920163088184-lkh8m9f3emr84j7uob5i2kn8qpq6joid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilalfakhro.stampme",
+            "certificate_hash": "c163b7a6af6f3b4314e4780779d7014d083eee46"
+          }
+        },
+        {
+          "client_id": "920163088184-r9fc7lpu7cgnfte6g1jsrs6rb09vd0ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxn9WctOW2UC0HjF148DBrhgBfJNZzU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920163088184-r9fc7lpu7cgnfte6g1jsrs6rb09vd0ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920163088184-ahr1ql2bu015o1cuoqutdti602r6roel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bilalfakhro.stampme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
